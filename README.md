@@ -4,7 +4,7 @@ First little project to understand the programming language Rust.
 
 Typing `cargo run` in the console will make the game appear...
 
-```scala
+```console
 PS C:\Users\micha\Documents\Code\learnRust\guessing_game> cargo run
    Compiling guessing_game v0.1.0 (C:\Users\micha\Documents\Code\learnRust\guessing_game)
     Finished dev [unoptimized + debuginfo] target(s) in 0.48s
